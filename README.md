@@ -4,8 +4,6 @@
 
 A **Machine Learning project** that predicts whether a loan applicant is **Low Risk** or **High Risk** using structured financial and demographic data.
 
-Built to be **recruiter‑friendly**, **impact‑driven**, and **GitHub‑ready** — with clean code, explainability, and real‑world relevance.
-
 ---
 
 
