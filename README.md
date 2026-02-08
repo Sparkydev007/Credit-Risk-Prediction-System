@@ -13,7 +13,7 @@ Built to be **recruiter‑friendly**, **impact‑driven**, and **GitHub‑ready*
 
 
 
-🚀 **Live Streamlit App**: [https://your-streamlit-app-link-here](https://credit-risk-prediction-system-1.streamlit.app/)
+🚀 **Live Streamlit App**: [https://credit-risk-prediction-system-1.streamlit.app/]
 
 ---
 
